@@ -67,7 +67,7 @@ window.onload = function() {
     linkedin: null,
     instagram: null,
     name: "Name",
-    lastname: "Last name",
+    lastname: "Lastname",
     role: "Job titlle",
     country: "Country",
     city: "City"
